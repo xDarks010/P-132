@@ -1,0 +1,44 @@
+body
+{
+background-size: cover;
+background-position: center;
+}
+
+#Bed{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#Tv{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#Desk{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#Bottle{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#FruitBasket{
+    background-color: white;
+    height: 50px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+#status{
+    margin-right: 500px;
+}
